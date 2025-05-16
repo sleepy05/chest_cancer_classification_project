@@ -1,1 +1,27 @@
 [2025-05-15 13:10:49,014: INFO: main: welcome]
+[2025-05-16 17:53:31,110: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-05-16 17:53:31,126: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-16 17:53:31,128: INFO: common: created directory at: artifacts]
+[2025-05-16 17:53:31,130: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-05-16 17:53:31,130: INFO: 2085442592: Downloading data from https://drive.google.com/file/d/1AL4FSKAhvR5B9igirPQsZU7FJzJCZbhb/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2025-05-16 17:53:44,590: INFO: 2085442592: Downloaded data from https://drive.google.com/file/d/1AL4FSKAhvR5B9igirPQsZU7FJzJCZbhb/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2025-05-16 18:30:18,837: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-05-16 18:30:18,837: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-05-16 18:30:18,837: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-16 18:30:18,837: INFO: common: created directory at: artifacts]
+[2025-05-16 18:30:18,837: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-05-16 18:30:18,837: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1AL4FSKAhvR5B9igirPQsZU7FJzJCZbhb/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2025-05-16 18:31:06,226: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1AL4FSKAhvR5B9igirPQsZU7FJzJCZbhb/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2025-05-16 18:31:06,760: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-05-16 18:32:45,863: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-05-16 18:32:45,863: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-05-16 18:32:45,863: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-05-16 18:32:45,863: INFO: common: created directory at: artifacts]
+[2025-05-16 18:32:45,863: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-05-16 18:32:45,863: INFO: data_ingestion: Downloading data from https://drive.google.com/file/d/1AL4FSKAhvR5B9igirPQsZU7FJzJCZbhb/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2025-05-16 18:33:00,306: INFO: data_ingestion: Downloaded data from https://drive.google.com/file/d/1AL4FSKAhvR5B9igirPQsZU7FJzJCZbhb/view?usp=drive_link into file artifacts/data_ingestion/data.zip]
+[2025-05-16 18:33:00,756: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
